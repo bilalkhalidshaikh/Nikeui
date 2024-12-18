@@ -43,7 +43,7 @@ export default function EssentialsSlider() {
             className="rounded"
           />
           <button className="absolute bottom-4 left-4 bg-white px-3 py-1 text-sm font-medium rounded-full hover:bg-gray-200 transition duration-300">
-            Kids' Collection
+            Kids&apos; Collection
           </button>
         </div>
       </div>
@@ -75,18 +75,18 @@ export default function EssentialsSlider() {
           <ul>
             <li>All Apparel</li>
             <li>Modest Apparel</li>
-            <li>Hoodies & Sweatshirts</li>
-            <li>Tops & Tees</li>
+            <li>Hoodies &amp; Sweatshirts</li>
+            <li>Tops &amp; Tees</li>
           </ul>
         </div>
 
         <div className="hover:text-gray-700 transition duration-300">
-          <h3 className="font-medium mb-2">Kids' Apparel</h3>
+          <h3 className="font-medium mb-2">Kids&apos; Apparel</h3>
           <ul>
-            <li>Infant & Toddler Footwear</li>
-            <li>Kids' Footwear</li>
-            <li>Kids' Jordan Footwear</li>
-            <li>Kids' Basketball Footwear</li>
+            <li>Infant &amp; Toddler Footwear</li>
+            <li>Kids&apos; Footwear</li>
+            <li>Kids&apos; Jordan Footwear</li>
+            <li>Kids&apos; Basketball Footwear</li>
           </ul>
         </div>
       </div>
