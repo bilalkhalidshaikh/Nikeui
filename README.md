@@ -4,7 +4,7 @@ This project is a clone of the Nike website, developed during the Next.js Jam Ha
 
 ## Project Overview
 
-The Nike Clone is designed to replicate the sleek and dynamic user experience of the original Nike website. Utilizing Next.js and Tailwind CSS, this project emphasizes performance, responsiveness, and aesthetic fidelity to the Figma template.
+The Nike Clone is designed to replicate the sleek and dynamic user experience of the original Nike website. Utilizing Next.js and Tailwind CSS, this project emphasizes performance, responsiveness, and aesthetic fidelity to the [Figma template](https://www.figma.com/design/UZv7fjeO8bTfsY0eN3KsRZ/Nike-UI---Free-UI-Kit-(Recreated)-(Community)?t=EamuDEmzLp5BRIEM-0).
 
 ## Features
 
