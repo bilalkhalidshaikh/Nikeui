@@ -15,7 +15,7 @@ export default function EssentialsSlider() {
             className="rounded"
           />
           <button className="absolute bottom-4 left-4 bg-white px-3 py-1 text-sm font-medium rounded-full hover:bg-gray-200 transition duration-300">
-            Men's Collection
+            Men&apos;s Collection
           </button>
         </div>
 
@@ -29,7 +29,7 @@ export default function EssentialsSlider() {
             className="rounded"
           />
           <button className="absolute bottom-4 left-4 bg-white px-3 py-1 text-sm font-medium rounded-full hover:bg-gray-200 transition duration-300">
-            Women's Collection
+            Women&apos;s Collection
           </button>
         </div>
 
